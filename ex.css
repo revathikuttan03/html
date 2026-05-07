@@ -1,0 +1,17 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+.bg{
+    color: blueviolet;
+    text-align: left;
+}
+#color{
+    background-color: rgb(235, 14, 65);
+    color: white;
+    text-align: right;
+    
+}
